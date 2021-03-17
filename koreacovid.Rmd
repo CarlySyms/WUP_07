@@ -1,7 +1,7 @@
 ---
 title: "covid 19"
-author: "Dr K"
-date: "5/2/2020"
+author: "Carly Syms"
+date: "3/17/2021"
 output:
   html_document: default
   pdf_document: default
